@@ -163,5 +163,6 @@ Useful links:
 http://confluence.jetbrains.com/display/TCD8/TeamCity+Documentation
 http://jmeter-plugins.org/wiki/PerfMonAgent/
 
-
+Binary distribution for jmeter_plugin
+dist\artifacts\
 	
