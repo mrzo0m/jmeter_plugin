@@ -165,4 +165,4 @@ http://jmeter-plugins.org/wiki/PerfMonAgent/
 
 Binary distribution for jmeter_plugin
 dist\artifacts\
-	
+Delimiter set to - ','	
